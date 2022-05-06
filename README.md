@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naveen-Trendig
 - 👀 I’m interested in testing, automation, python, arjuna, selenium
 - 🌱 I’m currently learning arjuna
-- 💞️ I’m looking to collaborate on automation
+- 💞️ I’m looking to collaborate on automation using python - arjuna - selenium
 - 📫 How to reach me .. naveen@trendig.com
 
 <!---
